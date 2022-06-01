@@ -43,6 +43,19 @@ Strong prose may provoke extreme mental exertion. Reader discretion is strongly 
 Mad scientist at work!
 ```
 
-```mermaid
-this is
-```
+type: custom:useful-markdown-card
+style: |
+  ha-card {
+    padding: 16px;
+  }
+  h1 {
+    text-align: center;
+    font-size: 64px;
+  }
+  h2 {
+    text-align: center;
+    color: var(--primary-color);
+  }
+content: |
+  # [[ sensor.time ]]
+  ## [[ sensor.date ]]
