@@ -42,3 +42,7 @@ Strong prose may provoke extreme mental exertion. Reader discretion is strongly 
 ```danger
 Mad scientist at work!
 ```
+
+```mermaid
+this is
+```
