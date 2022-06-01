@@ -43,37 +43,9 @@ Strong prose may provoke extreme mental exertion. Reader discretion is strongly 
 Mad scientist at work!
 ```
 
-type: custom:useful-markdown-card
-style: |
-  ha-card {
-    padding: 16px;
-  }
-  h1 {
-    text-align: center;
-    font-size: 64px;
-  }
-  h2 {
-    text-align: center;
-    color: var(--primary-color);
-  }
-content: |
-  # [[ sensor.time ]]
-  ## [[ sensor.date ]]
-
 
 <div class="Box Box--blue">
   <div class="Box-header">
     Box header
-  </div>
-  <ul>
-    <li class="Box-row">
-      Box row one
-    </li>
-    <li class="Box-row">
-      Box row two
-    </li>
-  </ul>
-  <div class="Box-footer">
-    Box footer
   </div>
 </div>
