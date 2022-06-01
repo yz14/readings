@@ -59,3 +59,21 @@ style: |
 content: |
   # [[ sensor.time ]]
   ## [[ sensor.date ]]
+
+
+<div class="Box Box--blue">
+  <div class="Box-header">
+    Box header
+  </div>
+  <ul>
+    <li class="Box-row">
+      Box row one
+    </li>
+    <li class="Box-row">
+      Box row two
+    </li>
+  </ul>
+  <div class="Box-footer">
+    Box footer
+  </div>
+</div>
